@@ -8,7 +8,7 @@ published: true
 
 ## はじめに
 
-Terraform を MacOS へ導入する際に、
+TerraformをMacOSへ導入する際に、
 
 ```bash
 Your Command Line Tools are too outdated.
@@ -25,7 +25,7 @@ Kernel Version: Darwin 22.3.0
 Homebrew 4.0.4
 ```
 
-## Terraform の install
+## Terraformのinstall
 
 [公式ドキュメント](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)を参考に導入開始。以下のコマンドをターミナルで実行しました。
 
@@ -63,7 +63,7 @@ sudo rm -rf /Library/Developer/CommandLineTools
 sudo xcode-select --install
 ```
 
-再度、以下のコマンドで Terraform を install します。
+再度、以下のコマンドでTerraformをinstallします。
 
 ```bash
 brew tap hashicorp/tap
@@ -83,4 +83,4 @@ terraform -v
   on darwin_amd64
 ```
 
-バージョンが確認できれば Terraform のインストール完了です。
+バージョンが確認できればTerraformのインストール完了です。
