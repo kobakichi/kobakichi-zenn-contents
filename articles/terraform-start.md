@@ -40,7 +40,7 @@ Error: Your Command Line Tools are too outdated.
 Update them from Software Update in System Preferences.
 
 If that doesn't show you any updates, run:
-sudo rm -rf /Library/Developer /CommandLineTools
+sudo rm -rf /Library/Developer/CommandLineTools
 
 sudo xcode-select --install
 
@@ -49,13 +49,13 @@ https://developer.apple.com/download/all/.
 You should download the Command Line Tools for Xcode 14.1.
 ```
 
-コマンドラインツールが古すぎるから、ソフトウェアをアップデートしてくださいと言われているので、上記で書いてあるコードを実行します。
+コマンドラインツールが古すぎるから、ソフトウェアをアップデートしてくださいと言われているので、上記に書いてあるコードを実行します。
 
 ```bash
-sudo rm -rf /Library/Developer /CommandLineTools
+sudo rm -rf /Library/Developer/CommandLineTools
 ```
 
-このコマンドを実行することによって、コマンドラインツールをアンインストールすることができます。
+このコマンドを実行することにより、コマンドラインツールをアンインストールしています。
 
 次に、以下のコマンドを実行しコマンドラインツールをインストールします。
 
