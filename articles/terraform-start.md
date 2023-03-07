@@ -3,7 +3,7 @@ title: "MacOSでTerraformの環境構築 CommandLineToolsエラー"
 emoji: "🍣"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Terraform", "CLI", "mac"]
-published: false
+published: true
 ---
 
 ## はじめに
