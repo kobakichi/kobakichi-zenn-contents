@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "remark": "^14.0.2",
     "zenn-cli": "^0.1.141"
+  },
+  "devDependencies": {
+    "prettier-plugin-md-nocjsp": "^1.5.1"
   }
 }
