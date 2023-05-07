@@ -3,7 +3,7 @@ title: "TerraformでRDSインスタンスを削除する方法"
 emoji: "📚"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Terraform", "aws", "RDS"]
-published: false
+published: true
 ---
 
 ## TerraformでRDSを作成し、destroyを実行する際にハマりました。
