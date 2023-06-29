@@ -3,7 +3,7 @@ title: "TerraformをVS codeで書く時のコメントをスニペット化し�
 emoji: "🎉"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Terraform", "VScode", "snipett"]
-published: false
+published: true
 ---
 
 ## VS codeでスニペットを登録する方法
