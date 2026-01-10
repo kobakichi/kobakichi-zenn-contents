@@ -3,7 +3,7 @@ title: "Google Antigravityを使ってChrome拡張「Chrome Multi-Highlighter」
 emoji: "🖍️"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["chrome", "extension"]
-published: false
+published: true
 ---
 
 ## Google Antigravityを使ってChrome拡張「Chrome Multi-Highlighter」を作りました
