@@ -36,7 +36,7 @@ Webページを調べものしていると「複数のキーワードを同時�
 
 ## Chrome Multi-Highlighter
 
-https://chromewebstore.google.com/detail/chrome-multi-highlighter/pfhaoflcfmlndfajkkceioahidhemlmm?hl=ja
+https://chromewebstore.google.com/detail/chrome-multi-highlighter/nonbahheeamacolahbjdkdeeocellhij?authuser=0&hl=ja
 
 完全無料でお使いいただけます。
 
